@@ -1047,6 +1047,7 @@ network,latitude,longitude,city_name,country_name
 20.24.0.0/16,36.6534,-78.375,Boydton,United States
 20.34.0.0/16,51.5095,-0.0955,London,United Kingdom
 20.35.0.0/16,29.4227,-98.4927,San Antonio,United States
+20.37.0.0/16,47.9856,-122.2002,Everett,United States
 20.39.0.0/16,35.6893,139.6899,Tokyo,Japan
 20.45.0.0/16,52.3759,4.8975,Amsterdam,Netherlands
 20.47.0.0/16,1.2929,103.8547,,Singapore
