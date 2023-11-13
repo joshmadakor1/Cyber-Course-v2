@@ -1,4 +1,4 @@
-network,latitude,longitude,city_name,country_name
+network,latitude,longitude,cityname,countryname
 1.0.0.0/16,-33.494,143.2104,,Australia
 1.1.0.0/16,17.8148,103.3386,Ban Chan,Thailand
 1.2.0.0/16,13.8667,100.1917,Nakhon Pathom,Thailand
